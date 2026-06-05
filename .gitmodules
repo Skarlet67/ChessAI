@@ -1,0 +1,3 @@
+[submodule "maia3_source"]
+	path = maia3_source
+	url = https://github.com/CSSLab/maia3.git
